@@ -1,6 +1,6 @@
 # PSD Conversion Project
 
-From Juno's web dev [curriculum]https://github.com/HackerYou/con-ed-web-dev/tree/master/projects/project-1
+From Juno's web dev [curriculum](https://github.com/HackerYou/con-ed-web-dev/tree/master/projects/project-1)
 
 This project is a PSD design conversion project
 
